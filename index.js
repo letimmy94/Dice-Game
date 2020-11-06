@@ -1,1 +1,1 @@
-var randomNumber1 = math.floor(math.random() * 6) + 1;
+var randomNumber1 = Math.floor(Math.random() * 6) + 1;
